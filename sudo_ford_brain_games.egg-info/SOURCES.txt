@@ -1,0 +1,8 @@
+brain_games/__init__.py
+brain_games/scripts/__init__.py
+brain_games/scripts/brain_games.py
+sudo_ford_brain_games.egg-info/PKG-INFO
+sudo_ford_brain_games.egg-info/SOURCES.txt
+sudo_ford_brain_games.egg-info/dependency_links.txt
+sudo_ford_brain_games.egg-info/entry_points.txt
+sudo_ford_brain_games.egg-info/top_level.txt
