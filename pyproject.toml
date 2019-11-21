@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sudo-ford_brain_games"
-version = "0.2.0"
+version = "0.3.0"
 description = ""
 authors = ["None"]
 packages = [
@@ -17,6 +17,8 @@ flake8 = "^3.7"
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
 brain-even = "brain_games.scripts.brain-even:main"
+brain-calc = "brain_games.scripts.brain_calc:main"
+
 
 [build-system]
 requires = ["poetry>=0.12"]
