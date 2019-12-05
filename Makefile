@@ -1,8 +1,12 @@
-install: 
-    poetry install
+install:
+	poetry install
 
 lint:
-    poetry run flake8 brain_games
+	poetry run flake8 brain_games
 
 configure:
-    poetry install
+	poetry install
+
+publish:
+	poetry build
+	poetry publish -r foo

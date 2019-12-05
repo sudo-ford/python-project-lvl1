@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sudo-ford_brain_games"
-version = "0.6.0"
+version = "0.6.1"
 description = ""
 authors = ["None"]
 packages = [
